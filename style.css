@@ -1,0 +1,186 @@
+html{
+zoom: 110%;
+overflow-x:hidden;
+font-family: 'Roboto';
+font-style: normal;
+
+}
+header{
+background-image: url(1.png);
+background-size: cover ;
+background-repeat: no-repeat;
+position: relative;
+height: 650px;
+left: 0px;
+top: 0px;
+z-index: 0;
+}
+
+nav{
+    position: relative;
+    text-align: center;
+    width: 100%;
+    top: 40px;
+}
+
+.nav-link{
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 23px;
+text-decoration: none;
+color: #000000;
+margin-right: 10%;
+}
+
+h1{
+    text-align: center;
+    position: relative;
+    top: 69px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 75px;
+
+
+color: #000000;
+}
+p{
+   
+}
+.logo{
+position: relative;
+width: 25%;
+height: 30%;
+left: 35%;
+top: 20px;
+}
+h2{
+font-weight: 400;
+font-size: 48px;
+}
+
+main{
+    position: relative;
+    width: 100%;
+    
+}
+.info{
+position: absolute;
+width: 100%;
+top: 60px;
+}
+.info-div{
+width: 25%;
+float: left;
+margin-left: 5%;
+}
+.info-img{
+width: 50%;
+float: right;
+}
+.menu{
+position: absolute;
+width: 100%;
+top: 460px;
+text-align: center;
+}
+.menu-cards1{
+position: absolute;
+width: 100%;
+top: 150px;
+left: 5%;
+text-align: left;
+} 
+.menu-cards2{
+position: absolute;
+width: 100%;
+top: 550px;
+left: 5%;
+text-align: left;
+}
+.card{
+width: 25%;
+float: left;
+margin-right: 3%;
+}
+
+.rev{
+position: absolute;
+width: 100%;
+top: 1610px;
+}
+.rev h2{
+    text-align: center;
+}
+.rev-div{
+position: absolute;
+top: 150px;
+}
+.rev-card{
+float: left;
+width: 100%;
+}
+.rev-card p{
+width: 60%;
+float: left;
+}
+.cat{
+    
+width: 230px;
+height: 230px;
+float: left;
+}
+.man{
+    width: 150px;
+    height: 150px;
+    float: left;
+    margin-left: 30px;
+    margin-right: 60px;
+}
+.map{
+position: absolute;
+width: 100%;
+top: 2310px;
+text-align: center;
+
+}
+.about{
+position: absolute;
+width: 100%;
+top: 2710px;
+text-align: center;
+}
+footer{
+     position: relative;
+    width: 100%;
+    top: 3100px;
+background-image: url(1.png);
+background-repeat: no-repeat;
+background-size: cover ;
+height: 185px;
+}
+.footer-info{
+
+float: right;
+margin-right: 5%;
+}
+.footer-img{
+height: 40px;
+width: 40px;
+}
+
+.nav-link:hover{
+    
+text-shadow: white 1px 0 10px;
+font-size: 22px;
+text-decoration: underline overline white;
+color: white;
+transition: 0.2s;
+padding: 3px 20px;
+
+}
+
